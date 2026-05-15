@@ -1,0 +1,19 @@
+VERSION = 1,
+
+option MilestoneInterval
+{
+    type = integer,
+    min = 1,
+    max = 50,
+    default = 10,
+    page = DayCount,
+    translation = DayCount_MilestoneInterval,
+}
+
+option EnableMilestonePopup
+{
+    type = boolean,
+    default = true,
+    page = DayCount,
+    translation = DayCount_EnableMilestonePopup,
+}

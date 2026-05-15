@@ -1,0 +1,6 @@
+VERSION = 1,
+Sandbox_DayCount = "DayCount",
+Sandbox_DayCount_MilestoneInterval = "Milestone Every N Days",
+Sandbox_DayCount_MilestoneInterval_tooltip = "Show a milestone popup every N days survived. Default is every 10 days.",
+Sandbox_DayCount_EnableMilestonePopup = "Enable Milestone Popup",
+Sandbox_DayCount_EnableMilestonePopup_tooltip = "Show a notification popup when reaching a milestone day.",
