@@ -1,6 +1,6 @@
 name=DayCount
 id=DayCount
 description=Displays current in-game day on screen with milestone popup notifications. Designed for survival challenges and content creation.
-modversion=1.0
+modversion=1.1
 pzversion=41.78
 author=tiw25
