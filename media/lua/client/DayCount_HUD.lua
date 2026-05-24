@@ -1,7 +1,7 @@
 DayCount_HUD = ISPanel:derive("DayCount_HUD")
 
 local W      = 110
-local H      = 52
+local H      = 62
 local POS_FILE = "DayCount_pos.txt"
 
 local function loadPos()
